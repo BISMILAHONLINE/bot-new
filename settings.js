@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6281545463585']
-global.premium = ['6281545463585']
-global.ownernomer = '6281545463585'
-global.ownername = 'DidinSec 𖤍'
-global.botname = 'DidinBotz‡'
-global.footer = '©DidinDev.'
-global.ig = 'https://instagram.com/Didin_yt1'
-global.region = 'Indonesia, Kalimantan, barat'
-global.sc = 'https://github.com/DidinSec'
-global.myweb = 'https://didinsec.cf'
-global.packname = 'DidinBotz'
-global.author = 'DidinSec 𖤍'
+global.owner = ['6288980870067']
+global.premium = ['6288980870067']
+global.ownernomer = '6288980870067'
+global.ownername = 'Swift Developer 𖤍'
+global.botname = 'Siesta - Multi Device'
+global.footer = '©SwiftDev.'
+global.ig = 'https://instagram.com/swift'
+global.region = 'Indonesia, Jawa Tengah, Pagerbarang'
+global.sc = 'https://github.com/XyzenzKannaV1'
+global.myweb = 'https://linktr.ee/kannachanv1'
+global.packname = 'Siesta - Multi Device'
+global.author = 'SwiftDev 𖤍'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
